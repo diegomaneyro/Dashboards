@@ -32,16 +32,11 @@
 
 
 ## Flujo del Dato
-<p align="left">
-<img src=""  height=450>
-</p>
-
 
 ## Deploy App
 
 ## Funcionamiento de la WebApp
 
-+
 ## Licencia
 
 
