@@ -38,12 +38,9 @@
 
 
 ## Deploy App
-+ Demo: Desde Render
-![Captura](https:)
 
 ## Funcionamiento de la WebApp
-+
-+
+
 +
 ## Licencia
 
